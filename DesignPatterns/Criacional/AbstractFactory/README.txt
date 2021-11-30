@@ -1,0 +1,5 @@
+O Abstract Factory é um padrão de projeto criacional que permite que você produza famílias de objetos
+ relacionados sem ter que especificar suas classes concretas.
+A primeira coisa que o padrão Abstract Factory sugere é declarar explicitamente 
+interfaces para cada produto distinto da família de produtos.
+Então você pode fazer todas as variantes dos produtos seguirem essas interfaces.
